@@ -62,19 +62,19 @@ ___แสดงเพียง 2 commit___
 ```git
     git log --pretty=oneline --max-count=2
 ```
-
+![](./images/12.1/maxcount2.jpg)
 ___แสดงประวัตินับจาก 5 นาทีที่แล้ว___
 ```
     git log --pretty=oneline --since='5 minutes ago'
 ```
-![](./images/12.1/maxcount2.jpg)
+![](./images/12.1/5minuteago.jpg)
 **_คำแนะนำ_** สามารถเปลี่ยน ```minutes``` เป็นหน้วยเวลาอื่นๆ เช่น ```days```
 
 
 ___แสดงประวัติจนถึง 5 นาทีที่แล้ว___
 
 ```git log --pretty=oneline --until='5 minutes ago'```
-![](./images/12.1/5minuteago.jpg)
+
 **_คำแนะนำ_** สามารถเปลี่ยน ```minutes``` เป็นหน้วยเวลาอื่นๆ เช่น ```days```
 
 
