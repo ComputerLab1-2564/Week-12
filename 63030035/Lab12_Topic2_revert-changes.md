@@ -24,24 +24,36 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig6.png)
 
+![](./images/12.3/1.jpg)
+
 6. ใน github desktop จะแสดงเนื้อหาส่วนที่ถูกแก้ไข
 
 ![](./images/Lab12-fig7.png)
+
+![](./images/12.3/2.jpg)
 
 7. ใน git bash ให้ทำการตรวจสอบสถานะ โดยคำสั่ง ```git status```
 
 ![](./images/Lab12-fig8.png)
 
+![](./images/12.3/3.jpg)
+
 8. ถ้าต้องการยกเลิกการเปลี่ยนแปลงที่ทำกับ Readme.md ให้ใช้คำสั่ง ```git checkout Readme.md``` **ระวังเรื่องการใช้ตัวพิมพ์เล็ก/พิมพ์ใหญ่ในชื่อไฟล์ด้วย**
 
 ![](./images/Lab12-fig9.png)
+
+![](./images/12.3/4.jpg)
 
 8.1 
 
 ![](./images/Lab12-fig10.png)
 
+![](./images/12.3/5.jpg)
+
 
 ![](./images/Lab12-fig11.png)
+
+![](./images/12.3/6.jpg)
 
 
 สิ่งที่แก้ไข จะถูกไฟล์ที่อยู่ใน local repository เขียนทับไปแล้ว และกลับเป็นเหมือนเดิมก่อนมีการแก่ไขไฟล์นั้น
@@ -61,10 +73,14 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig12.png)
 
+![](./images/12.3/7.jpg)
+
 
 ตรวจสอบโดย github desktop
 
 ![](./images/Lab12-fig13.png)
+
+![](./images/12.3/8.jpg)
 
 
 2. เพิ่มไฟล์ Readme.md ไปยัง staging area ด้วยคำสั่ง ```git add Readme.md````
@@ -73,6 +89,8 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig14.png)
 
+![](./images/12.3/9.jpg)
+
 จะเห็นว่าคำสั่ง ```git status``` จะมีคำแนะนำบางอย่าง ซึ่งเราสามารถนำมาใช้เพื่อยกเลิกการกระทำขั้นก่อนหน้านี้ได้
 ### ขั้นแก้ไขปัญหา ###
 
@@ -80,11 +98,14 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig15.png)
 
+![](./images/12.3/10.jpg)
+
 5. ยกเลิกการเพิ่มไฟล์เข้าไปใน staging areae ตามขั้นตอนการทดลองในหัวข้อก่อนหน้านี้ หรือทำตามคำแนะนำใน git bash 
 (ในขั้นนี้จะลองทำตามที่ git bashบอก คือ ) ```git restore Readme.md```
 
 ![](./images/Lab12-fig16.png)
 
+![](./images/12.3/11.jpg)
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
 
@@ -92,9 +113,13 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig17.png)
 
+![](./images/12.3/12.jpg)
+
 
 
 ![](./images/Lab12-fig18.png)
+
+![](./images/12.3/13.jpg)
 
 ---
 ## 2. ยกเลิกการแก้ไขไฟล์หลังทำการ ```git commit```###
@@ -106,18 +131,24 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig19.png)
 
+![](./images/12.3/14.jpg)
+
 ![](./images/Lab12-fig20.png)
+
+![](./images/12.3/15.jpg)
 
 
 2. เพิ่ม Readme.md เข้าไปยัง staging area โดยคำสั่ง ```git add Readme.md```
    
 ![](./images/Lab12-fig21.png)
 
+![](./images/12.3/16.jpg)
 
 3. commit ไฟล์ Readme.md โดยคำสั่ง ```git commit -m "commit Readme.md"```
 
 ![](./images/Lab12-fig22.png)
  
+![](./images/12.3/17.jpg)
 
 ### ขั้นแก้ไขปัญหา ###
 
@@ -128,10 +159,14 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig23.png)
 
+![](./images/12.3/18.jpg)
+
 5. เมื่อกลับมาจาก text editor จะปรากฏข้อความต่อไปนี้
 
 
 ![](./images/Lab12-fig24.png)
+
+![](./images/12.3/19.jpg)
 
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
@@ -139,10 +174,16 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig25.png)
 
+![](./images/12.3/20.jpg)
+
 ![](./images/Lab12-fig26.png)
+
+![](./images/12.3/21.jpg)
 
 7. ตรวจสอบ history log ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```
 
 
 ![](./images/Lab12-fig27.png)
+
+![](./images/12.3/22.jpg)
 
