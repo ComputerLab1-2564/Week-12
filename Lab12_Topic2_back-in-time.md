@@ -13,6 +13,7 @@
 2. ดูประวัติการ commit ทั้งหมดใน repository (ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```)
    **คำสั่ง** ให้จับภาพหน้าจอมาวางในใบงาน
 
+![](./images/Lab12-fig28.png)
 3. ย้อนไปดูไฟล์ตามประวัติการแก้ไข
     
    * คำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short``` จะบอกข้อมูลที่สำคัญคือ hash value ของ commit เราสามารถกระโดดย้อนเวลาไปยัง commit นั้นได้โดยใช้คำสั่ง ```git checkout <hash>``` โดย <hash> ก็คือตัวเลขผสมตัวอักษรที่ปรากฏอยู่คอลัมน์แรกสุดของแต่ละ commit
@@ -20,6 +21,9 @@
    * capture หน้าจอของไฟล์ readme.md เปรียบเทียบกันใน 2 commit นั้น
    * สังเกตุที่หน้าจอ git bash ในวงเล็บท้ายชื่อ path จะแสดงหมายเลข commit
    * ในขณะ checkout ไปยัง commit อ่านและทำความเข้าใจข้อความแจ้งเตือนที่ปรากฏที่หน้าจอ อธิบายตามความเข้าใจ 
+   * มีความแตกต่างกันครับ
+   ![](./images/Lab12-fig29.png)
+   ![](./images/Lab12-fig30.png)
 
 4. เราสามารถตั้งชื่อ (tag) ให้กับ commit นี้โดยใช้คำสั่ง ```git tag <tag name>```
    * สังเกตุชื่อ repository ในหน้าต่าง git bash ตอนท้ายจะมี (<hash number>) 
@@ -30,6 +34,7 @@
 
 6. ทดลอง branch กลับไปยัง commit นั้น โดยใช้ ```git checkout V1```
     * เปรียบเทียบผลที่ได้กับการใช้คำสั่ง git branch <hash>
+![](./images/Lab12-fig31.png)
 
 7. ถึงแม้จะใช้ tag name แต่การ branch มาที่ commit จะทำให้เกิดการตัดจากหัว (HEAD) ของ link การกระทำใดๆ ที่ commit นี้อาจจะก่อให้เกิดปัญหาได้ ดังนั้นเพื่อความปลอดภัย ให้ branch กลับไปที่ main โดยคำสั่ง ```git checkout main```
 
