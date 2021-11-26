@@ -12,6 +12,7 @@
 
 2. ดูประวัติการ commit ทั้งหมดใน repository (ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```)
    **คำสั่ง** ให้จับภาพหน้าจอมาวางในใบงาน
+![image](https://user-images.githubusercontent.com/92081957/143563000-6ea795b7-4744-42fb-9926-d6d4efd4b998.png)
 
 3. ย้อนไปดูไฟล์ตามประวัติการแก้ไข
     
@@ -20,6 +21,8 @@
    * capture หน้าจอของไฟล์ readme.md เปรียบเทียบกันใน 2 commit นั้น
    * สังเกตุที่หน้าจอ git bash ในวงเล็บท้ายชื่อ path จะแสดงหมายเลข commit
    * ในขณะ checkout ไปยัง commit อ่านและทำความเข้าใจข้อความแจ้งเตือนที่ปรากฏที่หน้าจอ อธิบายตามความเข้าใจ 
+![image](https://user-images.githubusercontent.com/92081957/143564057-f010f61d-3179-4c0c-8c23-94df5654c0b5.png)
+
 
 4. เราสามารถตั้งชื่อ (tag) ให้กับ commit นี้โดยใช้คำสั่ง ```git tag <tag name>```
    * สังเกตุชื่อ repository ในหน้าต่าง git bash ตอนท้ายจะมี (<hash number>) 
@@ -30,6 +33,8 @@
 
 6. ทดลอง branch กลับไปยัง commit นั้น โดยใช้ ```git checkout V1```
     * เปรียบเทียบผลที่ได้กับการใช้คำสั่ง git branch <hash>
+![image](https://user-images.githubusercontent.com/92081957/143564440-19c847f6-e6ce-44b5-b346-905d130d5a35.png)
+
 
 7. ถึงแม้จะใช้ tag name แต่การ branch มาที่ commit จะทำให้เกิดการตัดจากหัว (HEAD) ของ link การกระทำใดๆ ที่ commit นี้อาจจะก่อให้เกิดปัญหาได้ ดังนั้นเพื่อความปลอดภัย ให้ branch กลับไปที่ main โดยคำสั่ง ```git checkout main```
 
