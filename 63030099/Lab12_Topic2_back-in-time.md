@@ -13,11 +13,16 @@
 2. ดูประวัติการ commit ทั้งหมดใน repository (ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```)
    **คำสั่ง** ให้จับภาพหน้าจอมาวางในใบงาน
 
+![image](https://user-images.githubusercontent.com/92079514/143562624-f1f82d2e-b366-4a99-9381-946e67dd061b.png)
+
 3. ย้อนไปดูไฟล์ตามประวัติการแก้ไข
     
    * คำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short``` จะบอกข้อมูลที่สำคัญคือ hash value ของ commit เราสามารถกระโดดย้อนเวลาไปยัง commit นั้นได้โดยใช้คำสั่ง ```git checkout <hash>``` โดย <hash> ก็คือตัวเลขผสมตัวอักษรที่ปรากฏอยู่คอลัมน์แรกสุดของแต่ละ commit
    * ทดลอง checkout commit แรกสุด และ commit ที่ชื่อ edit typo เพื่อดูความแตกต่างในเนื้อหาของไฟล์     *
    * capture หน้าจอของไฟล์ readme.md เปรียบเทียบกันใน 2 commit นั้น
+![image](https://user-images.githubusercontent.com/92079514/143564070-25254a2e-cd75-4304-b3d6-39cb8f79b0b9.png)
+
+
    * สังเกตุที่หน้าจอ git bash ในวงเล็บท้ายชื่อ path จะแสดงหมายเลข commit
    * ในขณะ checkout ไปยัง commit อ่านและทำความเข้าใจข้อความแจ้งเตือนที่ปรากฏที่หน้าจอ อธิบายตามความเข้าใจ 
 
@@ -30,6 +35,7 @@
 
 6. ทดลอง branch กลับไปยัง commit นั้น โดยใช้ ```git checkout V1```
     * เปรียบเทียบผลที่ได้กับการใช้คำสั่ง git branch <hash>
+![image](https://user-images.githubusercontent.com/92079514/143564500-f1a9cca6-e733-488d-b62e-44139749476c.png)
 
 7. ถึงแม้จะใช้ tag name แต่การ branch มาที่ commit จะทำให้เกิดการตัดจากหัว (HEAD) ของ link การกระทำใดๆ ที่ commit นี้อาจจะก่อให้เกิดปัญหาได้ ดังนั้นเพื่อความปลอดภัย ให้ branch กลับไปที่ main โดยคำสั่ง ```git checkout main```
 
