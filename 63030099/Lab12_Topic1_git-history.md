@@ -33,6 +33,7 @@
 
    - ให้ capture หน้าจอนักศึกษามาวางในใบงาน
    **_คำแนะนำ_** ถ้าประวัติมีความยาวมาก ที่บรรทัดสุดท้าย จะมีเครื่องหมาย colon  ```:``` แสดงว่าระบบยังแสดงประวัติไม่หมด ให้เคาะ space bar ไปจนกว่าจะหมดข้อความ (มีคำว่า ```(END)```) ตรงนี้เมื่อกดปุ่มใดๆ จะไม่มีการตอบสนอง ให้กด ```Shift``` ค้างไว้และกดปุ่ม ```z``` สองครั้ง  
+![image](https://user-images.githubusercontent.com/92079514/143554958-a8bd40c0-bec8-4a3c-9d2a-b86518a8b6bf.png)
 
 ### ดูประวัติบรรทัดเดียว (one line history) ###
 
@@ -46,6 +47,7 @@
 
    - ให้ capture หน้าจอนักศึกษามาวางในใบงาน
    **_คำแนะนำ_** ถ้าข้อความล้นบรรทัด ระบบจะปัดลงมา ทำให้ดูลำบาก สามารถปรับความกว้างของ git bash ให้มากขึ้น แล้ว พิมพ์คำสั่ง  ```git log --pretty=oneline``` อีกครั้ง
+![image](https://user-images.githubusercontent.com/92079514/143555269-672d97c9-5148-481c-8a45-33dd2863625d.png)
 
 
 ### ควบคุมการดูประวัติบรรทัดเดียว (one line history) แบบต่าง ๆ ###
@@ -56,31 +58,39 @@ ___แสดงเพียง 2 commit___
 ```git
     git log --pretty=oneline --max-count=2
 ```
+![image](https://user-images.githubusercontent.com/92079514/143556003-3d32a374-a30d-495b-97dd-9ee1eae2c987.png)
 
 ___แสดงประวัตินับจาก 5 นาทีที่แล้ว___
 ```
     git log --pretty=oneline --since='5 minutes ago'
 ```
 **_คำแนะนำ_** สามารถเปลี่ยน ```minutes``` เป็นหน้วยเวลาอื่นๆ เช่น ```days```
+![image](https://user-images.githubusercontent.com/92079514/143556717-ac03c169-2833-4797-8f94-ed1f11ecf32b.png)
 
 
 ___แสดงประวัติจนถึง 5 นาทีที่แล้ว___
 
 ```git log --pretty=oneline --until='5 minutes ago'```
 **_คำแนะนำ_** สามารถเปลี่ยน ```minutes``` เป็นหน้วยเวลาอื่นๆ เช่น ```days```
+![image](https://user-images.githubusercontent.com/92079514/143557057-cbd704a5-691c-42c2-ba99-3116df6ca0ed.png)
 
 
 ___แสดงประวัติตามชื่อผู้ commit___
 
 ```git log --pretty=oneline --author=<your name>```
 
+![image](https://user-images.githubusercontent.com/92079514/143559325-1f60a27e-deab-450e-93b5-7bd734f987c9.png)
+
 
 ___แสดงประวัติทั้งหมด___
 ```git log --pretty=oneline --all```
+![image](https://user-images.githubusercontent.com/92079514/143559972-dd438e5d-f624-4cea-b8a5-112380cad067.png)
+
 
 
 **_คำแนะนำ_** ดูคำสั่ง ``git log`` ทั้งหมดได้โดยการพิมพ์  ```git log --help```
-
+file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-log.html
+ตามลิ้งค์นะครับอาจารย์
 
 ## _ให้นักศึกษาทดลองคำสั่งข้างบน แล้ว capture หน้าจอมาส่ง โดยแทรกใต้คำสั่งในตัวอย่าง_ ##
 
@@ -90,12 +100,32 @@ ___แสดงประวัติทั้งหมด___
 พิมพ์คำสั่งต่อไปนี้ (ครั้งละคำสั่ง) สังเกตุผลที่ได้ บันทึกผลและอธิบาย
 
 1.  ```git log --pretty=format:'%h'```
+
+![image](https://user-images.githubusercontent.com/92079514/143561040-db621a6d-ee5c-40fd-81e4-56daabb4728c.png)
+
 2.  ```git log --pretty=format:'%h %ad'```
+
+![image](https://user-images.githubusercontent.com/92079514/143561194-bb34d85b-f810-46ad-b83a-219abf2e0154.png)
+
 3.  ```git log --pretty=format:'%h %ad' --date=short```
+
+![image](https://user-images.githubusercontent.com/92079514/143561347-ae26e884-cb08-4313-8ae1-b628e58dda5e.png)
+
 4.  ```git log --pretty=format:'%h %ad' --date=short```
+
+![image](https://user-images.githubusercontent.com/92079514/143561501-cd92a9d5-cc51-4c5a-ba50-fbb8795c9772.png)
+
 5.  ```git log --pretty=format:'%h %ad | %s%d' --date=short```
+
+![image](https://user-images.githubusercontent.com/92079514/143561571-07ee876a-adb2-407b-a409-17fde6db0849.png)
+
 6.  ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```
+
+![image](https://user-images.githubusercontent.com/92079514/143561656-1f7d8f81-dc41-4366-b6ee-0b8ff2e00d8e.png)
+
 7.  ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short --graph```
+
+![image](https://user-images.githubusercontent.com/92079514/143561735-a7e9a28c-bf3b-4577-a578-a44c3ed929ff.png)
 
 
 #### รูปแบบคำสั่งควบคุมการแสดงผล ####
