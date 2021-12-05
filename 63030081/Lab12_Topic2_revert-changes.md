@@ -24,6 +24,9 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig6.png)
 
+![image](https://user-images.githubusercontent.com/92081694/144761356-758040f5-ba69-41bc-905a-636b85edb34b.png)
+
+
 6. ใน github desktop จะแสดงเนื้อหาส่วนที่ถูกแก้ไข
 
 ![](./images/Lab12-fig7.png)
