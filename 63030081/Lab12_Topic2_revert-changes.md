@@ -123,6 +123,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig20.png)
 
+![image](https://user-images.githubusercontent.com/92081694/144762032-d08b5b28-967f-45a9-83c6-89e621d853f8.png)
 
 2. เพิ่ม Readme.md เข้าไปยัง staging area โดยคำสั่ง ```git add Readme.md```
    
