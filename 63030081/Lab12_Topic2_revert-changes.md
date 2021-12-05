@@ -134,7 +134,8 @@ git ช่วยได้หลายขั้นตอนเลย
 3. commit ไฟล์ Readme.md โดยคำสั่ง ```git commit -m "commit Readme.md"```
 
 ![](./images/Lab12-fig22.png)
- 
+ ![image](https://user-images.githubusercontent.com/92081694/144762111-4dbb4472-8c7b-4d47-b99f-5953c29e2023.png)
+
 
 ### ขั้นแก้ไขปัญหา ###
 
