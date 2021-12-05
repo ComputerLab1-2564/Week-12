@@ -98,6 +98,7 @@ git ช่วยได้หลายขั้นตอนเลย
 (ในขั้นนี้จะลองทำตามที่ git bashบอก คือ ) ```git restore Readme.md```
 
 ![](./images/Lab12-fig16.png)
+![image](https://user-images.githubusercontent.com/92081694/144761867-48304b66-c26a-4e67-9565-a67dc3d9d0b7.png)
 
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
