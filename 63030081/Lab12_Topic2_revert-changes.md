@@ -79,6 +79,9 @@ git ช่วยได้หลายขั้นตอนเลย
 
 2. เพิ่มไฟล์ Readme.md ไปยัง staging area ด้วยคำสั่ง ```git add Readme.md````
 
+![image](https://user-images.githubusercontent.com/92081694/144761638-20c689c4-48be-4253-b8c4-889751411698.png)
+
+
 3. เช็คสถานะ git ด้วยคำสั่ง ```git status```
 
 ![](./images/Lab12-fig14.png)
