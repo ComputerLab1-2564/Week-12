@@ -12,6 +12,8 @@
 
 2. ดูประวัติการ commit ทั้งหมดใน repository (ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```)
    **คำสั่ง** ให้จับภาพหน้าจอมาวางในใบงาน
+   ![image](https://user-images.githubusercontent.com/92081694/144759771-d3608668-95db-4eb2-b43f-15927b18de92.png)
+
 
 3. ย้อนไปดูไฟล์ตามประวัติการแก้ไข
     
