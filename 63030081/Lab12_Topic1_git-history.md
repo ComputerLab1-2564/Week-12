@@ -84,6 +84,7 @@ ___แสดงประวัติทั้งหมด___
 
 **_คำแนะนำ_** ดูคำสั่ง ``git log`` ทั้งหมดได้โดยการพิมพ์  ```git log --help```
 
+![image](https://user-images.githubusercontent.com/92081694/144759701-c323037a-7da4-4b3b-8fd6-564fbae2f72e.png)
 
 ## _ให้นักศึกษาทดลองคำสั่งข้างบน แล้ว capture หน้าจอมาส่ง โดยแทรกใต้คำสั่งในตัวอย่าง_ ##
 
@@ -99,6 +100,9 @@ ___แสดงประวัติทั้งหมด___
 5.  ```git log --pretty=format:'%h %ad | %s%d' --date=short```
 6.  ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```
 7.  ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short --graph```
+
+![image](https://user-images.githubusercontent.com/92081694/144759714-e88f4068-ee7f-4abf-9a90-13b925e0a6ec.png)
+![image](https://user-images.githubusercontent.com/92081694/144759726-319a5336-027d-4bc7-9c6b-da9f05f277a9.png)
 
 
 #### รูปแบบคำสั่งควบคุมการแสดงผล ####
