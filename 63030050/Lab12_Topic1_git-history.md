@@ -30,6 +30,8 @@
 4.  พิมพ์คำสั่ง  ```git log``` หน้าจอจะแสดงคล้ายตัวอย่างนี้ 
    
 ![](./images/Lab12-fig4.png)
+![image](https://user-images.githubusercontent.com/92082350/144758945-f636edb1-7c59-4e74-b149-3fa72fb69cb3.png)
+
 
    - ให้ capture หน้าจอนักศึกษามาวางในใบงาน
    **_คำแนะนำ_** ถ้าประวัติมีความยาวมาก ที่บรรทัดสุดท้าย จะมีเครื่องหมาย colon  ```:``` แสดงว่าระบบยังแสดงประวัติไม่หมด ให้เคาะ space bar ไปจนกว่าจะหมดข้อความ (มีคำว่า ```(END)```) ตรงนี้เมื่อกดปุ่มใดๆ จะไม่มีการตอบสนอง ให้กด ```Shift``` ค้างไว้และกดปุ่ม ```z``` สองครั้ง  
@@ -43,6 +45,7 @@
 5. พิมพ์คำสั่ง  ```git log --pretty=oneline``` หน้าจอจะแสดงคล้ายตัวอย่างนี้ 
 
 ![](./images/Lab12-fig5.png)
+![image](https://user-images.githubusercontent.com/92082350/144759063-1792dddd-c9ac-4559-9b4f-80e6581880d7.png)
 
    - ให้ capture หน้าจอนักศึกษามาวางในใบงาน
    **_คำแนะนำ_** ถ้าข้อความล้นบรรทัด ระบบจะปัดลงมา ทำให้ดูลำบาก สามารถปรับความกว้างของ git bash ให้มากขึ้น แล้ว พิมพ์คำสั่ง  ```git log --pretty=oneline``` อีกครั้ง
@@ -109,3 +112,4 @@ ___แสดงประวัติทั้งหมด___
     %an is the author name
 --graph informs git to display the commit tree in an ASCII graph layout
 --date=short keeps the date format nice and short 
+![image](https://user-images.githubusercontent.com/92082350/144759194-1f01451c-c765-4fa1-8406-51f84156db5a.png)
