@@ -35,6 +35,9 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig8.png)
 
+![image](https://user-images.githubusercontent.com/92081694/144761424-ae449650-fa5a-4a75-90d7-b5f4bc68550a.png)
+
+
 8. ถ้าต้องการยกเลิกการเปลี่ยนแปลงที่ทำกับ Readme.md ให้ใช้คำสั่ง ```git checkout Readme.md``` **ระวังเรื่องการใช้ตัวพิมพ์เล็ก/พิมพ์ใหญ่ในชื่อไฟล์ด้วย**
 
 ![](./images/Lab12-fig9.png)
