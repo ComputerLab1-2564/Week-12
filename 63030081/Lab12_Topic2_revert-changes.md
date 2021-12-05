@@ -42,6 +42,9 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig9.png)
 
+![image](https://user-images.githubusercontent.com/92081694/144761452-8b616774-e214-458f-9600-c3808d813ab8.png)
+
+
 8.1 
 
 ![](./images/Lab12-fig10.png)
