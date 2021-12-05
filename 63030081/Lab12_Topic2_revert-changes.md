@@ -128,6 +128,7 @@ git ช่วยได้หลายขั้นตอนเลย
 2. เพิ่ม Readme.md เข้าไปยัง staging area โดยคำสั่ง ```git add Readme.md```
    
 ![](./images/Lab12-fig21.png)
+![image](https://user-images.githubusercontent.com/92081694/144762084-24922f31-2df0-4e83-93a8-bd1492485562.png)
 
 
 3. commit ไฟล์ Readme.md โดยคำสั่ง ```git commit -m "commit Readme.md"```
