@@ -165,4 +165,5 @@ git ช่วยได้หลายขั้นตอนเลย
 
 
 ![](./images/Lab12-fig27.png)
+![image](https://user-images.githubusercontent.com/92081694/144762265-837d5b07-3b6f-4b9e-a6d4-ece54837ec4b.png)
 
