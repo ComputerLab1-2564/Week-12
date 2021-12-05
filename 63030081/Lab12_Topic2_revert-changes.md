@@ -92,6 +92,7 @@ git ช่วยได้หลายขั้นตอนเลย
 4. ล้างค่าใน staging area โดยคำสั่ง ```git restore --staged Readme.md"```
 
 ![](./images/Lab12-fig15.png)
+![image](https://user-images.githubusercontent.com/92081694/144761792-6c3ae3c7-1bc4-46d4-ba7e-ca8b01fd6616.png)
 
 5. ยกเลิกการเพิ่มไฟล์เข้าไปใน staging areae ตามขั้นตอนการทดลองในหัวข้อก่อนหน้านี้ หรือทำตามคำแนะนำใน git bash 
 (ในขั้นนี้จะลองทำตามที่ git bashบอก คือ ) ```git restore Readme.md```
