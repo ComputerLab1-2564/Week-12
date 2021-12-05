@@ -159,6 +159,8 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig26.png)
 
+![image](https://user-images.githubusercontent.com/92081694/144762252-c58e29db-03cb-4b04-b165-996761d8afff.png)
+
 7. ตรวจสอบ history log ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```
 
 
