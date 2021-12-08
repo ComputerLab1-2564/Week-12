@@ -12,6 +12,10 @@
 
 2. ดูประวัติการ commit ทั้งหมดใน repository (ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```)
    **คำสั่ง** ให้จับภาพหน้าจอมาวางในใบงาน
+  
+  
+  ![image](https://user-images.githubusercontent.com/71489984/145277373-1218c5cf-14a8-4f1e-b03d-5b56d5f9fa33.png)
+
 
 3. ย้อนไปดูไฟล์ตามประวัติการแก้ไข
     
@@ -20,6 +24,8 @@
    * capture หน้าจอของไฟล์ readme.md เปรียบเทียบกันใน 2 commit นั้น
    * สังเกตุที่หน้าจอ git bash ในวงเล็บท้ายชื่อ path จะแสดงหมายเลข commit
    * ในขณะ checkout ไปยัง commit อ่านและทำความเข้าใจข้อความแจ้งเตือนที่ปรากฏที่หน้าจอ อธิบายตามความเข้าใจ 
+  ![image](https://user-images.githubusercontent.com/71489984/145277521-36398f74-11e6-4c3b-8633-8abc659f825c.png)
+
 
 4. เราสามารถตั้งชื่อ (tag) ให้กับ commit นี้โดยใช้คำสั่ง ```git tag <tag name>```
    * สังเกตุชื่อ repository ในหน้าต่าง git bash ตอนท้ายจะมี (<hash number>) 
