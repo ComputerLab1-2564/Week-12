@@ -98,6 +98,8 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig15.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145685878-57c29e73-0947-4dc6-8209-926103193818.png)
+
 5. ยกเลิกการเพิ่มไฟล์เข้าไปใน staging areae ตามขั้นตอนการทดลองในหัวข้อก่อนหน้านี้ หรือทำตามคำแนะนำใน git bash 
 (ในขั้นนี้จะลองทำตามที่ git bashบอก คือ ) ```git restore Readme.md```
 
