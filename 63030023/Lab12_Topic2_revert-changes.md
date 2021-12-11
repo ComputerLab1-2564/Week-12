@@ -114,9 +114,13 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig17.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145685960-bf2f33e4-d8cd-498f-904e-4440107ee316.png)
+
 
 
 ![](./images/Lab12-fig18.png)
+
+![image](https://user-images.githubusercontent.com/92082676/145685968-2cd81bcc-d831-47fc-bcf4-f18e1fb9a491.png)
 
 ---
 ## 2. ยกเลิกการแก้ไขไฟล์หลังทำการ ```git commit```###
