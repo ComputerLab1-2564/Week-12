@@ -177,7 +177,11 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig25.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145686284-ca6ee190-9345-4370-87d5-654572434d81.png)
+
 ![](./images/Lab12-fig26.png)
+
+![image](https://user-images.githubusercontent.com/92082676/145686287-f3870f80-7eaa-4eee-b71e-0ddb484afca7.png)
 
 7. ตรวจสอบ history log ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```
 
