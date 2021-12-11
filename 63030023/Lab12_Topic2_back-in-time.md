@@ -22,6 +22,8 @@
    * capture หน้าจอของไฟล์ readme.md เปรียบเทียบกันใน 2 commit นั้น
    * สังเกตุที่หน้าจอ git bash ในวงเล็บท้ายชื่อ path จะแสดงหมายเลข commit
    * ในขณะ checkout ไปยัง commit อ่านและทำความเข้าใจข้อความแจ้งเตือนที่ปรากฏที่หน้าจอ อธิบายตามความเข้าใจ 
+  
+  ![image](https://user-images.githubusercontent.com/92082676/145675006-867d4400-d246-4621-8fb3-6a7fa79b42b3.png)
 
 4. เราสามารถตั้งชื่อ (tag) ให้กับ commit นี้โดยใช้คำสั่ง ```git tag <tag name>```
    * สังเกตุชื่อ repository ในหน้าต่าง git bash ตอนท้ายจะมี (<hash number>) 
