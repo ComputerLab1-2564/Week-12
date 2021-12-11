@@ -105,6 +105,8 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig16.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145685927-386dcc51-72fd-4c71-b360-e7fe01d3686c.png)
+
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
 
