@@ -169,6 +169,8 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig24.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145686232-ffe1189a-58d2-40f1-976e-039765cfc61d.png)
+
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
 6. ตรวจสอบไฟล์ต้นฉบับด้วย text editor และ github desktop
