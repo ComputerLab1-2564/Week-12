@@ -73,10 +73,14 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig12.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145685600-203f210d-ecb4-4c7d-bb34-47317b2e6462.png)
+
 
 ตรวจสอบโดย github desktop
 
 ![](./images/Lab12-fig13.png)
+
+![image](https://user-images.githubusercontent.com/92082676/145685608-d0c02811-0630-44c3-a767-61bff06edcc5.png)
 
 
 2. เพิ่มไฟล์ Readme.md ไปยัง staging area ด้วยคำสั่ง ```git add Readme.md````
