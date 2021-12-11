@@ -162,6 +162,8 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig23.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145686196-2f7a7383-0b3b-4991-8ca6-d6183e1d55aa.png)
+
 5. เมื่อกลับมาจาก text editor จะปรากฏข้อความต่อไปนี้
 
 
