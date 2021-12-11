@@ -103,6 +103,11 @@ ___แสดงประวัติทั้งหมด___
 6.  ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```
 7.  ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short --graph```
 
+![image](https://user-images.githubusercontent.com/92082676/145674454-6f259085-4d78-4ef4-a2c2-1f3af85675b5.png)
+
+![image](https://user-images.githubusercontent.com/92082676/145674466-6ef93360-dd80-4db4-85a5-39ed69e378a2.png)
+
+![image](https://user-images.githubusercontent.com/92082676/145674480-8ee2321b-877b-428c-a55b-49eab4278a1b.png)
 
 #### รูปแบบคำสั่งควบคุมการแสดงผล ####
 
