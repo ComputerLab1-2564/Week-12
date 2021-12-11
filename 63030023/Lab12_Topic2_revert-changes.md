@@ -30,6 +30,8 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig7.png)
 
+![image](https://user-images.githubusercontent.com/92082676/145685447-d2737648-c10a-41b7-972d-eae731340e1b.png)
+
 7. ใน git bash ให้ทำการตรวจสอบสถานะ โดยคำสั่ง ```git status```
 
 ![](./images/Lab12-fig8.png)
