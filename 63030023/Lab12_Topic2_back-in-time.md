@@ -43,3 +43,6 @@
 
 
  ```git log <tag name|branch name> --pretty=format:'%h %ad | %s%d [%an]' --date=short```
+  
+  ![image](https://user-images.githubusercontent.com/92082676/145675296-c15cb28d-0529-4ca1-871f-76fe90127129.png)
+
