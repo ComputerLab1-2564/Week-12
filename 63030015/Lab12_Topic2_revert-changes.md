@@ -24,36 +24,35 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig6.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145684849-08c92e2e-30ab-46be-a649-488647520238.png)
+![image](https://user-images.githubusercontent.com/92082259/146556295-c082d83d-ccf9-4a7d-ae69-ce4f39726610.png)
 
 6. ใน github desktop จะแสดงเนื้อหาส่วนที่ถูกแก้ไข
 
 ![](./images/Lab12-fig7.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685447-d2737648-c10a-41b7-972d-eae731340e1b.png)
+![image](https://user-images.githubusercontent.com/92082259/146556465-65c30121-63d6-44b7-a596-f7264000c388.png)
 
 7. ใน git bash ให้ทำการตรวจสอบสถานะ โดยคำสั่ง ```git status```
 
 ![](./images/Lab12-fig8.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685474-9d5c0383-c0ff-43e4-b38d-9b1399f7f3c6.png)
+![image](https://user-images.githubusercontent.com/92082259/146556773-878ba4f8-cc35-4c31-b482-6e2929f1bf88.png)
 
 8. ถ้าต้องการยกเลิกการเปลี่ยนแปลงที่ทำกับ Readme.md ให้ใช้คำสั่ง ```git checkout Readme.md``` **ระวังเรื่องการใช้ตัวพิมพ์เล็ก/พิมพ์ใหญ่ในชื่อไฟล์ด้วย**
 
 ![](./images/Lab12-fig9.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685501-22df4bd3-79ad-4805-a9a2-e073e8db0be5.png)
+![image](https://user-images.githubusercontent.com/92082259/146557018-82d798a1-1a71-416d-af6b-7db262c7ad2f.png)
 
 8.1 
 
 ![](./images/Lab12-fig10.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685531-e31a8f1d-604e-4001-9aba-a388e8b71307.png)
-
+![image](https://user-images.githubusercontent.com/92082259/146557158-5fa100a5-ea55-454a-9086-25f0a00eb2ba.png)
 
 ![](./images/Lab12-fig11.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685540-2cf42908-6d15-4692-98c6-38ac968bf414.png)
+![image](https://user-images.githubusercontent.com/92082259/146557264-dbd8defe-6c4f-4fc7-9dcf-2b2e70958359.png)
 
 
 สิ่งที่แก้ไข จะถูกไฟล์ที่อยู่ใน local repository เขียนทับไปแล้ว และกลับเป็นเหมือนเดิมก่อนมีการแก่ไขไฟล์นั้น
@@ -73,14 +72,14 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig12.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685600-203f210d-ecb4-4c7d-bb34-47317b2e6462.png)
+![image](https://user-images.githubusercontent.com/92082259/146560622-4c4d7fda-f4e6-4646-ab96-1868eae5db72.png)
 
 
 ตรวจสอบโดย github desktop
 
 ![](./images/Lab12-fig13.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685608-d0c02811-0630-44c3-a767-61bff06edcc5.png)
+![image](https://user-images.githubusercontent.com/92082259/146558738-be6e4740-6d7f-4720-8438-9697f55b38fc.png)
 
 
 2. เพิ่มไฟล์ Readme.md ไปยัง staging area ด้วยคำสั่ง ```git add Readme.md````
@@ -89,7 +88,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig14.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685664-5f96cb82-0675-467b-a00f-5b763e0a4a2e.png)
+![image](https://user-images.githubusercontent.com/92082259/146559053-93607a5e-7c8e-473b-8b1e-7b0903dbcaa4.png)
 
 จะเห็นว่าคำสั่ง ```git status``` จะมีคำแนะนำบางอย่าง ซึ่งเราสามารถนำมาใช้เพื่อยกเลิกการกระทำขั้นก่อนหน้านี้ได้
 ### ขั้นแก้ไขปัญหา ###
@@ -98,14 +97,14 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig15.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685878-57c29e73-0947-4dc6-8209-926103193818.png)
+![image](https://user-images.githubusercontent.com/92082259/146559363-50b6d6b0-b5d2-4b12-893f-f44a615ba916.png)
 
 5. ยกเลิกการเพิ่มไฟล์เข้าไปใน staging areae ตามขั้นตอนการทดลองในหัวข้อก่อนหน้านี้ หรือทำตามคำแนะนำใน git bash 
 (ในขั้นนี้จะลองทำตามที่ git bashบอก คือ ) ```git restore Readme.md```
 
 ![](./images/Lab12-fig16.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685927-386dcc51-72fd-4c71-b360-e7fe01d3686c.png)
+![image](https://user-images.githubusercontent.com/92082259/146559714-905b509b-90fd-465d-9eb8-759ee74a64e1.png)
 
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
@@ -114,13 +113,13 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig17.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685960-bf2f33e4-d8cd-498f-904e-4440107ee316.png)
+![image](https://user-images.githubusercontent.com/92082259/146559819-0039d7c9-a909-4198-adc0-51bf2f1968f5.png)
 
 
 
 ![](./images/Lab12-fig18.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685968-2cd81bcc-d831-47fc-bcf4-f18e1fb9a491.png)
+![image](https://user-images.githubusercontent.com/92082259/146559891-e993b67a-e57c-4147-b58a-f68dce97f609.png)
 
 ---
 ## 2. ยกเลิกการแก้ไขไฟล์หลังทำการ ```git commit```###
@@ -132,25 +131,26 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig19.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686015-535ca26c-79c4-4b3e-9ca2-71faab1ed904.png)
+![image](https://user-images.githubusercontent.com/92082259/146561229-0479c570-3cb7-4937-9684-cf4a4c2c45cd.png)
+
 
 ![](./images/Lab12-fig20.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686023-230e4a28-5705-4670-a53a-c027279fa8a5.png)
+![image](https://user-images.githubusercontent.com/92082259/146561376-438a34e9-5a22-4bd4-a669-9dfe3aa7dbeb.png)
 
 
 2. เพิ่ม Readme.md เข้าไปยัง staging area โดยคำสั่ง ```git add Readme.md```
    
 ![](./images/Lab12-fig21.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686091-33b8be34-3b26-4046-8630-2281534e170e.png)
+![image](https://user-images.githubusercontent.com/92082259/146562344-d6b5d93e-380d-48f6-ade9-3af656bd0cad.png)
 
 
 3. commit ไฟล์ Readme.md โดยคำสั่ง ```git commit -m "commit Readme.md"```
 
 ![](./images/Lab12-fig22.png)
+![image](https://user-images.githubusercontent.com/92082259/146562846-683177cb-b664-43d4-9b59-5482ea8e2f73.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686134-c6ae39ac-fc0d-4235-ac5e-59f270c2cdd7.png)
  
 
 ### ขั้นแก้ไขปัญหา ###
@@ -162,31 +162,26 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig23.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686196-2f7a7383-0b3b-4991-8ca6-d6183e1d55aa.png)
-
+![image](https://user-images.githubusercontent.com/92082259/146562993-8c573eb7-b365-401f-afdf-03d69c0cdd43.png)
 5. เมื่อกลับมาจาก text editor จะปรากฏข้อความต่อไปนี้
 
 
 ![](./images/Lab12-fig24.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686232-ffe1189a-58d2-40f1-976e-039765cfc61d.png)
+![image](https://user-images.githubusercontent.com/92082259/146563642-b0569f92-cdac-461a-9fcd-64283170f7f2.png)
 
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
 6. ตรวจสอบไฟล์ต้นฉบับด้วย text editor และ github desktop
 
 ![](./images/Lab12-fig25.png)
-
-![image](https://user-images.githubusercontent.com/92082676/145686284-ca6ee190-9345-4370-87d5-654572434d81.png)
-
+![image](https://user-images.githubusercontent.com/92082259/146563805-0f1fc168-3d05-4003-a10e-3f6bfc78c947.png)
 ![](./images/Lab12-fig26.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686287-f3870f80-7eaa-4eee-b71e-0ddb484afca7.png)
-
+![image](https://user-images.githubusercontent.com/92082259/146559891-e993b67a-e57c-4147-b58a-f68dce97f609.png)
 7. ตรวจสอบ history log ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```
 
 
 ![](./images/Lab12-fig27.png)
-
-![image](https://user-images.githubusercontent.com/92082676/145686322-e6c5eff3-cc51-4e54-8a32-cee8ebf9129b.png)
+![image](https://user-images.githubusercontent.com/92082259/146564143-8f44317c-c680-42ec-9f97-bb4b1a11acc1.png)
 
