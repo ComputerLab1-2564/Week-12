@@ -14,6 +14,9 @@
    **คำสั่ง** ให้จับภาพหน้าจอมาวางในใบงาน
    
    ![image](https://user-images.githubusercontent.com/92082676/145674859-0cb1302c-5556-4f84-8029-6a8380e75b68.png)
+   
+   ![image](https://user-images.githubusercontent.com/92082259/146539846-18bbf992-c3fe-4583-b68e-df4f0003e89d.png)
+
 
 3. ย้อนไปดูไฟล์ตามประวัติการแก้ไข
     
