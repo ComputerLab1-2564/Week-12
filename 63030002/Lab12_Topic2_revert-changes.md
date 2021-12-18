@@ -149,7 +149,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig22.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686134-c6ae39ac-fc0d-4235-ac5e-59f270c2cdd7.png)
+![image](https://user-images.githubusercontent.com/92086229/146634263-8b7f9db7-7652-48c9-a5d8-bdf1363bc692.png)
  
 
 ### ขั้นแก้ไขปัญหา ###
