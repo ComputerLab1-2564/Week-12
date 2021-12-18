@@ -87,7 +87,7 @@ ___แสดงประวัติทั้งหมด___
 
 ## _ให้นักศึกษาทดลองคำสั่งข้างบน แล้ว capture หน้าจอมาส่ง โดยแทรกใต้คำสั่งในตัวอย่าง_ ##
 
-![image](https://user-images.githubusercontent.com/92082676/145674257-26b2c4f9-e9d7-45d5-94f4-3f89e23a735a.png)
+![image](https://user-images.githubusercontent.com/92086229/146632645-8efeb241-f888-42dd-a8d4-f96b4a22f7c7.png)
 
 ### ปรับแต่งการแสดงผล  ###
    
