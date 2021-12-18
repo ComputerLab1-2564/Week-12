@@ -168,7 +168,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig24.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686232-ffe1189a-58d2-40f1-976e-039765cfc61d.png)
+![image](https://user-images.githubusercontent.com/92086229/146634318-c328e57f-8be5-4478-8307-77746ac194dd.png)
 
 
 ### ขั้นตรวจสอบผลลัพธ์ ###
