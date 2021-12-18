@@ -48,7 +48,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig10.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685531-e31a8f1d-604e-4001-9aba-a388e8b71307.png)
+![image](https://user-images.githubusercontent.com/92086229/146633759-d2a14eae-7fa4-4671-b595-10d624d88eff.png)
 
 
 ![](./images/Lab12-fig11.png)
