@@ -131,11 +131,11 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig19.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686015-535ca26c-79c4-4b3e-9ca2-71faab1ed904.png)
+![image](https://user-images.githubusercontent.com/92086229/146634119-b14825db-5b2a-4f0a-a3ea-7ffc011c9cda.png)
 
 ![](./images/Lab12-fig20.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686023-230e4a28-5705-4670-a53a-c027279fa8a5.png)
+![image](https://user-images.githubusercontent.com/92086229/146634123-ef0bcef9-e483-422f-83f6-bbd2e42c947b.png)
 
 
 2. เพิ่ม Readme.md เข้าไปยัง staging area โดยคำสั่ง ```git add Readme.md```
