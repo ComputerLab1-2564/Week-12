@@ -49,7 +49,7 @@
    - ให้ capture หน้าจอนักศึกษามาวางในใบงาน
    **_คำแนะนำ_** ถ้าข้อความล้นบรรทัด ระบบจะปัดลงมา ทำให้ดูลำบาก สามารถปรับความกว้างของ git bash ให้มากขึ้น แล้ว พิมพ์คำสั่ง  ```git log --pretty=oneline``` อีกครั้ง
 
-![image](https://user-images.githubusercontent.com/92082676/145674103-e0cfbae9-7b99-48d2-a62f-72d46aa388fa.png)
+![image](https://user-images.githubusercontent.com/92086229/146632570-3a190a8f-9ce1-4cbd-9b31-ac88074088e6.png)
 
 ### ควบคุมการดูประวัติบรรทัดเดียว (one line history) แบบต่าง ๆ ###
 เราสามารถควบคุมให้ ```git log --pretty=oneline``` แสดงผลในรูปแบบที่กำหนดได้ เช่น
