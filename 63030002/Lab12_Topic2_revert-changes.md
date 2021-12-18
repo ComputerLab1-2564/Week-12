@@ -142,7 +142,7 @@ git ช่วยได้หลายขั้นตอนเลย
    
 ![](./images/Lab12-fig21.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686091-33b8be34-3b26-4046-8630-2281534e170e.png)
+![image](https://user-images.githubusercontent.com/92086229/146634173-d85ec39a-6b57-4f38-9393-fb53f5397f9b.png)
 
 
 3. commit ไฟล์ Readme.md โดยคำสั่ง ```git commit -m "commit Readme.md"```
