@@ -73,8 +73,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig12.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685600-203f210d-ecb4-4c7d-bb34-47317b2e6462.png)
-
+![image](https://user-images.githubusercontent.com/92086229/146633806-6c8afa8c-66f6-471c-8455-f3c24d6fc2ed.png)
 
 ตรวจสอบโดย github desktop
 
