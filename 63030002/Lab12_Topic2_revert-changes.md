@@ -42,7 +42,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig9.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685501-22df4bd3-79ad-4805-a9a2-e073e8db0be5.png)
+![image](https://user-images.githubusercontent.com/92086229/146633742-6e5e468a-0f2e-404d-aee7-3d658a6982a2.png)
 
 8.1 
 
