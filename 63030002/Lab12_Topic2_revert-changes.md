@@ -187,5 +187,5 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig27.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145686322-e6c5eff3-cc51-4e54-8a32-cee8ebf9129b.png)
+![image](https://user-images.githubusercontent.com/92086229/146634399-4624a038-becc-46ba-b6c5-7d30f63239f4.png)
 
