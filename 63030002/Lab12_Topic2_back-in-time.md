@@ -44,5 +44,5 @@
 
  ```git log <tag name|branch name> --pretty=format:'%h %ad | %s%d [%an]' --date=short```
   
-  ![image](https://user-images.githubusercontent.com/92082676/145675296-c15cb28d-0529-4ca1-871f-76fe90127129.png)
+![image](https://user-images.githubusercontent.com/92086229/146633181-fd96a04e-041e-4b6c-a49a-f4e37862895e.png)
 
