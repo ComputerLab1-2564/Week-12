@@ -13,7 +13,7 @@
 2. ดูประวัติการ commit ทั้งหมดใน repository (ด้วยคำสั่ง ```git log --pretty=format:'%h %ad | %s%d [%an]' --date=short```)
    **คำสั่ง** ให้จับภาพหน้าจอมาวางในใบงาน
    
-   ![image](https://user-images.githubusercontent.com/92082676/145674859-0cb1302c-5556-4f84-8029-6a8380e75b68.png)
+![image](https://user-images.githubusercontent.com/92086229/146632886-a7ab9888-5a31-4a89-af77-c53f1da46825.png)
 
 3. ย้อนไปดูไฟล์ตามประวัติการแก้ไข
     
