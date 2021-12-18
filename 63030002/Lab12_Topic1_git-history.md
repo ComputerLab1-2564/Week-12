@@ -34,9 +34,7 @@
    - ให้ capture หน้าจอนักศึกษามาวางในใบงาน
    **_คำแนะนำ_** ถ้าประวัติมีความยาวมาก ที่บรรทัดสุดท้าย จะมีเครื่องหมาย colon  ```:``` แสดงว่าระบบยังแสดงประวัติไม่หมด ให้เคาะ space bar ไปจนกว่าจะหมดข้อความ (มีคำว่า ```(END)```) ตรงนี้เมื่อกดปุ่มใดๆ จะไม่มีการตอบสนอง ให้กด ```Shift``` ค้างไว้และกดปุ่ม ```z``` สองครั้ง  
    
-   ![image](https://user-images.githubusercontent.com/92082676/145673987-d5d4921c-b909-4adf-b788-dd76542ba48d.png)
-
-   ![image](https://user-images.githubusercontent.com/92082676/145674005-1b94bd5c-fe61-4740-8beb-c7cae482b9a5.png)
+![image](https://user-images.githubusercontent.com/92086229/146632492-80855431-1201-4904-837c-0b0ed7f81173.png)
 
 ### ดูประวัติบรรทัดเดียว (one line history) ###
 
