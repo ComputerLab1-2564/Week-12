@@ -88,7 +88,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig14.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685664-5f96cb82-0675-467b-a00f-5b763e0a4a2e.png)
+![image](https://user-images.githubusercontent.com/92086229/146633860-4345bb31-4320-4a29-ac8f-6cc268bff834.png)
 
 จะเห็นว่าคำสั่ง ```git status``` จะมีคำแนะนำบางอย่าง ซึ่งเราสามารถนำมาใช้เพื่อยกเลิกการกระทำขั้นก่อนหน้านี้ได้
 ### ขั้นแก้ไขปัญหา ###
