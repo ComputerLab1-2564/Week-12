@@ -53,7 +53,7 @@ git ช่วยได้หลายขั้นตอนเลย
 
 ![](./images/Lab12-fig11.png)
 
-![image](https://user-images.githubusercontent.com/92082676/145685540-2cf42908-6d15-4692-98c6-38ac968bf414.png)
+![image](https://user-images.githubusercontent.com/92086229/146633770-1eadb9b0-84bf-4410-8e42-ee1ca472cf53.png)
 
 
 สิ่งที่แก้ไข จะถูกไฟล์ที่อยู่ใน local repository เขียนทับไปแล้ว และกลับเป็นเหมือนเดิมก่อนมีการแก่ไขไฟล์นั้น
